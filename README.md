@@ -29,7 +29,7 @@ alx-airbnb-database/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/alx-airbnb-database.git
+git clone https://github.com/nahom-ketsela/alx-airbnb-database.git
 cd alx-airbnb-database
 ```
 
